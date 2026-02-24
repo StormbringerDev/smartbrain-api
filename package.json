@@ -1,0 +1,13 @@
+{
+  "name": "smartbrain-api",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
